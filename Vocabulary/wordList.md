@@ -167,10 +167,84 @@ fair  公平的，公平合理地，不错的   unfair 不公平的，不公正�
 
 grunt  咕隆，
 
+regional  地区的，区域的
 
+secure  安全的，牢靠的，安心的   securely 安全得，稳固地   security  安全，保障，安保措施
 
+securable  可得到的
 
+preserve  维护、保持、保留、保护区
 
+preservative  防腐剂
 
+reject  拒绝接受，不录用，排斥，抛弃
 
+code密码 ，代码，编程，编码
 
+item   意见物品，项目
+
+effort  努力，特列行动
+
+point  观点，重点，特点，得分；对着，朝向    pointed  尖的，有尖头的，犀利的
+
+pointer   指示，迹象，指针，指示犬
+
+review   审查，评论，回顾，复习  reviewer 评论员，评论家
+
+fabrication    捏造，组装，组建
+
+series  一系列，系列节目
+
+variation  变化，变异，变体，变种，变奏
+
+margin  页面空白处，余地，差额
+
+distraction  使人分心的人或事，娱乐
+
+complicate   使复杂化，使难以理解
+
+tram  有轨电车
+
+maturity  成熟，到期
+
+download  下载，下载的文件
+
+refer  提及，关于，参考，查阅
+
+interview  面试，采访，面谈
+
+extent  程度，地步，范围，面积
+
+stint   时间，节省，吝啬
+
+evacuate  撤离，疏散，转移，排泄      evacuation 撤离，疏散
+
+remove  移除，移走，去除，差距，距离
+
+depart  离开，离职，背离，违背
+
+embankment   路堤，堤岸
+
+squash   把。。挤压变形，塞入，挤入
+
+federation   联盟，联合会，联邦制国家
+
+surge   涌动，激增，突发，奔涌向前
+
+throng   密集的人群，一大群人，群集，涌向
+
+gush  喷出，涌出，迸发
+
+rise  上升，提高，起床，起立，增强
+
+physical  身体的，物理的，体检
+
+justify  为。。辩解， 证明。。有理
+
+cooperation  合作，协作，配合
+
+score  得分，分数，评分
+
+persuade   劝说，说服，使相信
+
+migration   移居，迁徙
