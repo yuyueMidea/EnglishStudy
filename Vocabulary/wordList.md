@@ -121,48 +121,51 @@ invasion  入侵，侵略
 
 nevertheless  然而，尽管如此
 
-celebrate  庆祝，祝贺
+celebrate  庆祝，祝贺  celebration庆祝活动，庆祝 祝贺
 
+inspiring 鼓舞人心的，启发灵感的
 
+attendance  出席，参加，出席人数
 
+optional 可选择的，非强制的    option选择权，选修课，选项，期权
 
+heal 治愈，修复
 
+enable  使能够，使可能
 
+dismantle 拆卸，拆除
 
+wage  工资，工钱
 
+landscape  风景，景观，形势
 
+emotion  情感，情绪
 
+commonwealth  英联邦，联合体，自由政体
 
+newsletter  通讯，简报
 
+periodical  学术期刊，周期性的，定期的  periodically  周期性地，定期地
 
+journal  期刊、杂志、报纸、日志、日记
 
+magazine  杂志，专题节目，弹夹
 
+receptionist  前台接待员
 
+security  安全，保障，安保措施
 
+clip  回形针，夹子，片段，夹住
 
+clutch  抓紧，突然抓住，离合器，
 
+apache 快速地，迅速地
 
+yield  出产，产生，屈服，让步
 
+fair  公平的，公平合理地，不错的   unfair 不公平的，不公正的
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+grunt  咕隆，
 
 
 
