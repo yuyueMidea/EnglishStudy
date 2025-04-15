@@ -248,3 +248,171 @@ score  得分，分数，评分
 persuade   劝说，说服，使相信
 
 migration   移居，迁徙
+
+overweight  超重的
+
+stamp 邮票，印章，印记，在。。上盖章
+
+whistle  吹口哨，哨子，口哨声，汽笛
+
+detective  侦探
+
+occupy 占用，占领，担任
+
+ceremony  仪式，典礼，客套
+
+diagnose  诊断
+
+denote  符号的代表，表示，意指
+
+signify  表示，意味着，表达，表明，要紧
+
+indicate 表明，指示，指向，暗示，代表
+
+mean  意思是，打算，小气的，刻薄的，平均的，平均数
+
+chink  缝隙，一束光，叮当响
+
+iris  虹膜，鸢尾属植物
+
+resource  资源，资料，向。。提供资金
+
+entire  全部的，整个的  entirely 全部地，完整地，完全地
+
+epitomise  成为。。典范，是。。的缩影
+
+summit  山顶，顶峰，峰会，首脑会议
+
+ensure  确保
+
+odour  难闻的气味
+
+accurate  精确地，准确的  accuracy 精确性，准确性  inaccurate 不准确的，有错误的
+
+superior  更好的，级别更高的，上级，上司
+
+tender 温柔的，嫩的，提议，投标
+
+willing  乐意的，自愿的，热心的  willingness 意愿，意志
+
+perform  表演，演出，执行，履行，。表现，运行  outperform  超过，胜过，比。。好
+
+seep 渗漏，逐渐外露
+
+delinquency 违法行为，逾期未还债务
+
+deliberate  故意的，从容的，慎重考虑
+
+ponder  沉思，考虑
+
+hasty  仓促的，草率的，冲动的
+
+implication 暗示，含义，牵连，可能的影响
+
+involvement 参与，介入，投入
+
+opponent  对手，竞争者，反对者
+
+sponsor  赞助商，发起者，资助者，倡议人，赞助，资助。举办
+
+decisive  决定性的，关键的，果断的
+
+substantial  大量的，重大的，实质性的  substantially 非常，大量地，大体上
+
+questionnaire  调查问卷，调查表   questionary  调查表，问卷
+
+viewpoint 观点，看法，视角，角度
+
+routine  惯例，常规，常规的，例行公事的，
+
+nurture  培育，培养，养育  nourish  培养，助长，给。。提供营养
+
+cultivate  开垦，种植，培养
+
+foster   培养，促进，收养，收养的
+
+slight  轻微的，微小的，纤细的，轻视，冷落  slightly 稍微，略微，轻微地
+
+genetic  遗传的，基因的  genetical  遗传的，起源的
+
+hereditary   遗传的，世袭的
+
+inherited  遗传的，继承的，继承的来的
+
+congenital  先天的，生性的
+
+similarly  相似地，类似地
+
+juggle  玩耍，改动，重新安排
+
+leak  渗漏，泄露。走漏，液体的露出，漏洞，裂缝
+
+literature   文学作品，文献，资料
+
+suffer  遭受，受苦，变差
+
+impede 妨碍，阻碍
+
+spring  春天，发条，弹簧，泉，蹦，跳，
+
+biological  生物的，生物性的，亲生的
+
+deduce  推断，推理，演绎
+
+doctorate  博士学位
+
+absolute  绝对的，无疑的
+
+theoretical  理论的，理论上的，假设性的  theoretically 理论上，照理说
+
+internship  实习期的工作，
+
+slender  苗条的，细长的，微薄的   slenderness  苗条，细长，微薄
+
+respondent  调查对象，被告
+
+surroundings  环境，周围事物
+
+couple  两个，一对夫妻，情侣，
+
+voluntary   自愿的，无偿的，志愿的  voluntarity  自愿地，主动地，义务地
+
+submarine  潜艇，海底的
+
+underwater  水下的，在水下，在水中
+
+submerged  在水中的，淹没的，水下的
+
+commercial  商业的，营利的，商业化的，广告
+
+notion  观念，理念，看法
+
+lavatory  厕所，洗手间
+
+niche  合适的定位，商机，生态位，小众的
+
+fold 折叠，对折，包裹，褶皱
+
+instrument   仪器，乐器，仪表，手段，工具
+
+simplify  简化，使简洁
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
