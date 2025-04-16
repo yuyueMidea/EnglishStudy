@@ -455,7 +455,36 @@ leisure  闲暇，空闲
 
 overlap   与。。重叠，有重叠，重叠部分
 
-counterpart职务相当的人，作用相等的事务
+counterpart职务相当的人，作用相等的事务，相对物，对等的人或物
 
+tune   曲调，曲子，调音，调频道。
+
+strike 罢工，打击，袭击，侵袭
+
+ambiguous  模棱两可的，含糊不清的
+
+represent   代表，体现，表示，相当于，意味着  representative  代表，众议员，有代表性的
+
+vanish  消失，消亡，灭绝
+
+mechanism  机械装置，方法，途径，机制
+
+dispute   争论，争端，就。。争执
+
+standard  标准，水平，通常的，标准的，规范的
+
+typical  典型的，一贯的，     typically 一般地，典型地
+
+strengthen  加固，加强
+
+workaholic  工作狂
+
+unaware  不知道的，没意识的
+
+erosion  侵蚀，风化，逐渐削弱
+
+corrosion  腐蚀
+
+deterioration  恶化，衰退
 
 
