@@ -487,4 +487,150 @@ corrosion  腐蚀
 
 deterioration  恶化，衰退
 
+exclusively  仅仅，专门地，排他地
+
+pronounceable  可发音的，可读出的
+
+ion 离子      ionizer 负离子发生器
+
+bare  赤裸的，荒芜的，基本的，空的，使暴露
+
+intercept  拦截，阻止，截住
+
+hose  软管，胶管，
+
+internal  国内的，内部的，体内的
+
+cruise   航行，乘船游行，乘船游览
+
+illusion  幻想，错觉，假象
+
+mirage  海市蜃楼，幻想，幻境，妄想
+
+shave  刮胡子，刮脸
+
+pierce 刺入，穿破，穿透
+
+incredible  难以置信的，极好的，极大的
+
+vertebrate  脊椎动物
+
+industrious  勤劳的，勤奋的
+
+intestine  肠子
+
+outpost 偏远村镇，前哨基地
+
+general  普遍的，总的，通常的，大概的，将军，首席的，主管的
+
+generalization   概括，归纳
+
+bother  烦扰，打扰，费心，费力，麻烦，令人烦恼的情况
+
+consignment  运送，运送的货物，寄售
+
+administrator  管理人员，行政人员
+
+convention  习惯，惯例，习俗，公约，协定    conventional  传统的，墨守成规的  conventionally按照惯例，公认地
+
+unconventional  新奇的，不墨守成规的
+
+organic   有机的，器官的，演进的
+
+trapeze 吊杠，高空秋千
+
+intersection  交点，交叉，道路交叉口
+
+crossroad  十字路口，交叉路口
+
+concept 概念，观点，想法
+
+cardiovascular  心血管的，心脏血管的
+
+humble 谦虚的，卑微的，不起眼的  使、、卑微
+
+lecture 讲座，讲课，训戒，教训，讲授，开讲座     lecturer 讲课者，讲师
+
+counter 柜台，料理台，反驳，逆向地
+
+brass  黄铜，铜管乐器，
+
+fauna  动物群
+
+expel  开除，驱逐出境，排出
+
+equator  赤道
+
+divisional  部门的，小组的
+
+invest 投资，投入，授权       investment 投资，投入      investor 投资者，投资机构
+
+essay  文章，论文，随笔
+
+dedicate  献身，致力于，献给
+
+devote  奉献，献身，把。。用于
+
+astrology  占星术
+
+attain 取得，获得，达到，赢得
+
+ambition  野心，抱负，理想
+
+range  一系列，范围，射程，徘徊，漫步
+
+ranger  园林管理员，突击队员
+
+ultimate  最终的终极的，根本的，极致，极限，    ultimately最终，最后，根本上
+
+counsellor  顾问，律师，夏令营负责人
+
+flap  拍打翅膀，拍动，摆动，挥动
+
+agitation  焦虑，骚动，煽动，搅动
+
+commotion  骚动，叛乱，喧闹
+
+flutter  拍打翅膀，扑腾
+
+wastage  浪费，损耗，自然减员
+
+dub  为。。配音，将。。戏称为
+
+device  仪器 ，设备
+
+regulate  管理，约束，调节    regulation  规章，制度，调控，管理，规定的，正规的
+
+mould  模具，铸模
+
+potential  潜在的，可能的，潜力，潜质，电势
+
+discretion 自主决定权，谨慎，慎重
+
+ambitious  有野心的，艰巨的
+
+brief  简短的，简洁的，任务简介
+
+clamour嘈杂声，吵闹声，大声要求
+
+substitude  代替者，代替物，替换，取代
+
+striking  显著的，惊人的，容貌出众的
+
+pirate  海盗，盗版者，盗版
+
+attest   证明，证实
+
+minimise  使减到最低，对。。轻描淡写
+
+imaginative  有想象力的，有独创性的
+
+profit  利润，收益，好处，得益于，，  对，，有益
+
+profitable  盈利的，有利润的，有益的
+
+
+
+
+
 
