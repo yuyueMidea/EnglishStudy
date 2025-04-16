@@ -397,22 +397,65 @@ instrument   仪器，乐器，仪表，手段，工具
 
 simplify  简化，使简洁
 
+irritation 恼怒，恼人的事，发炎
 
+compulsory  强制性的，义务的
 
+mandatory   强制的，法定的，义务的
 
+enforced  强制的，强迫的
 
+expense  费用，开支，开销  expensive  昂贵的
 
+muddle  糊涂，困惑，一团糟，使困惑，混淆，搅乱
 
+originate  起源，发源，创始，发起  origination   开始，起源
 
+originator  创始人，发明者，提出者
 
+originative  有创造力的
 
+induce  引诱，劝说，导致，引起  inducement 诱惑，引诱物
 
+inducible  可诱导的，可导致的
 
+exchange  交换，交流，交易，兑换
 
+atomic  原子的，原子能的
 
+disharmony  不和谐，不协调
 
+cosset  宠爱，娇养
 
+unique  独一无二的，独特的，特有的
 
+disagree  不同意，有分歧，不一致    disagreement  分歧，争执，不一致
+
+silt  淤泥，泥沙  淤塞
+
+inclusive   包括的，费用全包的，包容性强的   include 包括，使成为。。的一部分
+
+reservation   预留，预定，预约，保留地，保留意见
+
+transcript  抄本 ，转录本，成绩报告单
+
+exclude  不包括，排除
+
+reasonable  合理的，理智的，讲道理的，公道的    unreasonable  不合理的，不公正的
+
+abode  住所，居住，居所
+
+gadget  小器具，小装置，精巧的小玩意   gadgetry  小器具，精巧装置
+
+emergency  紧急事件，意外事件
+
+legacy  遗产，遗赠，遗留问题
+
+leisure  闲暇，空闲
+
+overlap   与。。重叠，有重叠，重叠部分
+
+counterpart职务相当的人，作用相等的事务
 
 
 
