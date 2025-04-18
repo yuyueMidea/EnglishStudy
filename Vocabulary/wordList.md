@@ -629,6 +629,15 @@ profit  利润，收益，好处，得益于，，  对，，有益
 
 profitable  盈利的，有利润的，有益的
 
+decrepitude   衰老、破旧
+
+ignorant  无知的，愚昧的
+
+stupid 愚蠢的，糊涂的，傻瓜。蠢货
+
+retarded  弱智的，智力迟钝的
+
+
 
 
 
