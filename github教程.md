@@ -4,3 +4,4 @@
 - 提交（Commit）：代码变更的记录；
 - 拉取请求（Pull Request）：请求合并代码变更；
 - 问题（Issue）：任务，bug，或功能讨论；
+- Github Actions：自动化工作流。
